@@ -1,4 +1,4 @@
 export default defineConfig({
   plugins: [react()],
-  base: '/AiChartAnalyzer/', // 👈 this fixes GitHub Pages
+  base: '/AichartAnalyzer/', // 👈 this fixes GitHub Pages
 });
